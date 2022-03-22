@@ -7,6 +7,4 @@ eCommerce Technical _everything_ for https://shop.poundland.co.uk - launched May
 
 All my Github work is for private organisations so may not be visible.
 
-I keep linkedin up-to-date
-
-[linkedin]: https://www.linkedin.com/in/simeonpashley/
+I keep linkedin up-to-date https://www.linkedin.com/in/simeonpashley/
