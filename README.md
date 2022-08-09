@@ -5,12 +5,14 @@ Solution Architect at Poundland - March 2022-
 
 eCommerce Technical _everything_ for https://shop.poundland.co.uk - launched May 2021
 
-All my Github work is for private organisations so may not be visible.
-
 I keep linkedin up-to-date https://www.linkedin.com/in/simeonpashley/
 
 
 # 📊 My Stats
+
+All my Github work is for private organisations so may not be visible.
+
+These are just my public personal repos...
 
 [![SimeonPashley's github stats](https://github-readme-stats.vercel.app/api?username=simeonpashley&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/simeonpashley)
 
