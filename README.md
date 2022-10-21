@@ -3,7 +3,10 @@
 
 Solution Architect at Poundland - March 2022-
 
-eCommerce Technical _everything_ for https://shop.poundland.co.uk - launched May 2021
+eCommerce Technical _everything_ Expert & Lead for https://www.poundland.co.uk & https://www.poundshop.com
+
+Professional Software Developer since 1986
+eCommerce Technical Lead since 2011.
 
 I keep linkedin up-to-date https://www.linkedin.com/in/simeonpashley/
 
