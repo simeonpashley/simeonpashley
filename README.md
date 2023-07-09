@@ -1,7 +1,8 @@
 ### Hi there 👋
 **PLEASE** NO recruiters, NO resellers, NO reps, NO sales, NO spam! It all goes in the bin.
 
-Solution Architect at Poundland - March 2022-
+Solution Architect, eCommerce & Digital at Premier Farnell/Avnet - March 2022-June 2023
+Solution Architect at Poundland - March 2022-June 2023
 
 eCommerce Technical _everything_ Expert & Lead for https://www.poundland.co.uk & https://www.poundshop.com
 
