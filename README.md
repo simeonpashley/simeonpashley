@@ -4,8 +4,6 @@
 Solution Architect, eCommerce & Digital at Premier Farnell/Avnet - March 2022-June 2023
 Solution Architect at Poundland - March 2022-June 2023
 
-eCommerce Technical _everything_ Expert & Lead for https://www.poundland.co.uk & https://www.poundshop.com
-
 Professional Software Developer since 1986
 eCommerce Technical Lead since 2011.
 
