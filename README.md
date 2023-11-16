@@ -13,9 +13,3 @@ I keep linkedin up-to-date https://www.linkedin.com/in/simeonpashley/
 # 📊 My Stats
 
 All my Github work is for private organisations so may not be visible.
-
-These are just my public personal repos...
-
-[![SimeonPashley's github stats](https://github-readme-stats.vercel.app/api?username=simeonpashley&show_icons=true&count_private=true&hide=stars)](https://github.com/simeonpashley)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simeonpashley&theme=dark&count_private=true)](https://github.com/simeonpashley)
