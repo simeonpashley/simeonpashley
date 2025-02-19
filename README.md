@@ -53,8 +53,6 @@
 ## 🔍 **Contributions**
 > ⚠️ Most of my work is within private organizations.
 
-- 📝 **Technical Blog:** [Pashley.org](https://pashley.org/) (Technical insights, best practices, and innovation trends)
-
 ---
 
 ## 🤝 **Let's Connect!**
