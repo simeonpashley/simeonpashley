@@ -6,7 +6,9 @@
 - 🏗️ **Architecting & developing** modern, distributed applications with a focus on **microservices, event-driven systems, and cloud-native solutions**.
 - 👨‍🏫 **Technical leader & mentor**, guiding teams in Agile & DevOps best practices.
 - ⚡ **Hands-on engineer**, experienced in designing and optimizing **highly scalable APIs, CI/CD workflows, and cloud architectures**.
-- 🛍️ **eCommerce Technical Lead since 2011**, working with major retail brands on **headless commerce, MACH architecture, and AI-driven search**.
+- 🧠 **AI-Enhanced Development**: Practical experience integrating **LLM APIs (OpenAI, Anthropic, Gemini, Azure AI), AI Agents, and AI-driven automation** into scalable applications.
+- ⚡ **AI-Powered Workflow Automation**: Hands-on experience with **n8n, LangChain, and RAG (Retrieval-Augmented Generation)** for streamlining operations and optimizing data pipelines.
+- 🛍️ **Technical Lead since 1986**, working with major retail brands on **headless commerce, MACH architecture, and AI-driven search**.
 
 ---
 
@@ -23,11 +25,17 @@
 - **CI/CD:** GitHub Actions, Azure DevOps, CircleCI
 - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
 
+### 🤖 **AI & Automation**
+- **LLM API Integrations:** OpenAI (GPT), Google Gemini, Anthropic Claude
+- **AI Agents & RAG:** LangChain, Retrieval-Augmented Generation (RAG), vector databases
+- **Automation & Orchestration:** n8n, Terraform, serverless AI workflows
+- **AI in eCommerce:** AI-powered search, recommendations, dynamic pricing optimization
+
 ### 💾 **Databases & Architecture**
 - **SQL:** PostgreSQL, MySQL
 - **NoSQL:** MongoDB, Firebase
 - **Messaging & Event-Driven Systems:** Kafka, RabbitMQ
-- **Caching:** Redis, Cloudflare Workers
+- **Caching:** Akamai, F5, Redis, Cloudflare Workers
 
 ### ✅ **Testing & Agile Methodologies**
 - **Testing:** Jest, Cypress, Playwright, TDD, BDD
@@ -42,12 +50,10 @@
 
 ---
 
-## 🔍 **GitHub & Open-Source Contributions**
+## 🔍 **Contributions**
 > ⚠️ Most of my work is within private organizations.
 
 - 📝 **Technical Blog:** [Pashley.org](https://pashley.org/) (Technical insights, best practices, and innovation trends)
-- 🔗 **Tech Discussions:** [Dev.to Profile](#) *(Optional: if you write on Dev.to)*
-- 🛠️ **Public Repositories:** *(TBD - If you plan to share snippets, templates, or utility scripts, list them here!)*  
 
 ---
 
